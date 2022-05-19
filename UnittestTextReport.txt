@@ -1,0 +1,11 @@
+testConditionCoverage (test_workfunc.TestWorkFunc) ... ok
+testConditionDecisionCoverage (test_workfunc.TestWorkFunc) ... ok
+testDecisionCoverage (test_workfunc.TestWorkFunc) ... ok
+testMultipleConditionCoverage (test_workfunc.TestWorkFunc) ... ok
+testPathCoverage (test_workfunc.TestWorkFunc) ... ok
+testStatementCoverage (test_workfunc.TestWorkFunc) ... ok
+
+----------------------------------------------------------------------
+Ran 6 tests in 0.000s
+
+OK
